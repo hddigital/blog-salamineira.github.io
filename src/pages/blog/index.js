@@ -5,13 +5,11 @@ import BlogRoll from '../../components/BlogRoll'
 
 export default class BlogIndexPage extends React.Component {
   render() {
-    return (  <Layout>
-            <section className="section">
+    return (  <section className="section">
             <div className="container">
             <div className="content">
               <BlogRoll />           
        
-            </Layout>
-    )
+            )
   }
 }
