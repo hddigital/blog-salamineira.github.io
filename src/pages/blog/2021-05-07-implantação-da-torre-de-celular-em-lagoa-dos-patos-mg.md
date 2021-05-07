@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Implantação da Torre de celular em Lagoa dos Patos-MG
-date: 2020-03-12T12:00:00.000Z
+date: 2020-12-03T12:00:00.000Z
 description: Ação de analise foi iniciada nesta quinta-feira dia 03 de dezembro de 2020.
 featuredpost: true
 featuredimage: /img/pedido-de-viabilidade-torre-tim-lagoa-dos-patos-mg.jpg
