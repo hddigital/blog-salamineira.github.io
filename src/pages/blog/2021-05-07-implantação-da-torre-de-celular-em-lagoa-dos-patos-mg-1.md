@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Implantação da Torre de celular em Lagoa dos Patos-MG
+title: Viabilidade Aprovada
 date: 2020-12-23T12:45:03.788Z
 description: A viabilidade de aprovação de implantação da torre da TIM em Lagoa
   dos Patos foi aprovada, um passo a mais na implantação da torre no município.
